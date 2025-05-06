@@ -1,8 +1,6 @@
 package start.loop;
 
 
-import start.operator.Operator1;
-
 public class BreakNContinue {
 
     public static void main(String[] args) {

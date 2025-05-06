@@ -1,16 +1,5 @@
 package start.variable;
 
-/**
- * packageName    : start.variable
- * fileName       : Var1
- * author         : asdfz
- * date           : 2024-10-15
- * description    :
- * ===============================================
- * DATE              AUTHOR             NOTE
- * -----------------------------------------------
- * 2024-10-15        asdfz       최초 생성
- */
 public class Var {
     public class Var2 {
         static void var() {

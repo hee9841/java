@@ -203,9 +203,7 @@ public class ScannEx {
             cnt++;
         }
 
-        double average = (double) sum / cnt;
-        //Nan
-        //todo
+        double average = (cnt == 0) ? 0.0 : (double) sum / cnt;
 
         System.out.println("입력한 숫자들의 합계: " + sum);
         System.out.println("입력한 숫자들의 평균: " + average );

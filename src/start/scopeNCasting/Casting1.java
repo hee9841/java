@@ -1,8 +1,6 @@
 package start.scopeNCasting;
 
 
-import start.variable.Var;
-
 public class Casting1 {
 
     public static void main(String[] args) {
